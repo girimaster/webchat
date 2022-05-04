@@ -4,6 +4,7 @@ git config --global core.editor vim
 git config --global core.compression 2
 git config --global diff.tool vim.diff
 git config --global core.editor vim2
+git config --global core.compression
 
 
 
